@@ -1,5 +1,5 @@
 # Youtube BOT 
-### A Youtube bot that create, mounts and upload video on youtube.
+### A bot that create, mounts and upload video on youtube.
 
 
 ## Description
