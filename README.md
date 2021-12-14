@@ -1,6 +1,7 @@
 # Youtube BOT 
 ### A bot that create, mounts and upload video on youtube.
 
+Check out the [Youtube Chanel](https://www.youtube.com/channel/UC9p7OD0DahI_Ez0G0JV-08A) to see what the bot can do ! 
 
 ## Description
 
